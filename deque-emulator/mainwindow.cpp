@@ -2,12 +2,6 @@
 #include "ui_mainwindow.h"
 #include "algo.h"
 
-#include <QMessageBox>
-#include <algorithm>
-#include <QFileDialog>
-#include <QFile>
-#include <QTextStream>
-#include <cctype>
 
 
 MainWindow::MainWindow(QWidget *parent)
